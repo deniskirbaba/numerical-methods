@@ -1,0 +1,5 @@
+## 3 lab
+
+Optimisation methods. Working with matrices.  
+  
+Matrix portrait, sparse matrix storage, LU matrix decomposition, special form matrices, block matrices.
